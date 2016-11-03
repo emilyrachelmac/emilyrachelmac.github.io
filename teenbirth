@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<head>
+<title> U.S. Teen Birth Rates 2014 </title>
+</head>
+<body>
+
+
+<style>
+
+	@font-face {
+		font-family: "Franklin Bold";
+		src:url(fonts/ITCFranklinGothicStd-Med.otf);
+	}
+
+	@font-face {
+		font-family: "Franklin Light";
+		src:url(fonts/franklin-gothic-light.ttf);
+	}
+
+	body {
+		margin:45px;
+		color:#2a2a2a;
+	}
+
+	h1 { text-align:center;
+		font-family:"Franklin Bold",Helvetica, Arial, sans-serif;
+		font-size:1.8em;
+		font-weight:950;
+	}
+	h2{
+		text-align:center;
+		font-family:"Franklin Bold",Helvetica, Arial, sans-serif;
+		font-size:1em;
+		font-weight:750;
+	}
+	p { text-align:center;
+		font-family:"Franklin Light", Helvetica, Arial, sans-serif;
+		font-size:1.1em;
+		line-height:1.5em;
+		word-spacing:-1px;
+		padding-left: 35px;
+		padding-right:35px;
+	}
+	.right {
+		float:left;
+		width:55%;
+		margin-left:25%;
+	}
+	.bottom {
+		width:100%;
+		clear:both;
+		margin-top:50px;
+		border-top:1.5px solid #D5D5D5;
+		padding-top:30px;
+	}
+	.bottom-source {
+		color:#969696;
+		line-height:20px;
+		float:left;
+		font-size:.8em;
+		border-bottom:1px solid #D5D5D5;
+		padding-top:50px;
+		padding-bottom:8px;
+		margin-bottom:20px;
+	}
+
+</style>
+
+<div class="top">
+<div class="center">
+	<h1>U.S. Teen Birth Rate in 2014 </h1>
+	<h2> A closer look at births among teens nationwide, ages 15 through 19. </h2>
+</div>
+	<p> Between 1991 and 2014, the teen birth rate has decreased by about 61% nationwide. This decline has taken place in all 50 states and among all racial/ethnic groups. The data below includes teen birth and pregnancy rates among girls between the ages of 15 and 19. Each state is ranked from 1 to 50, with 1 being the lowest number of births, and 50 being the state with the highest number of births. The data shows that Massachusetts has the lowest teen birth rate, at 10.6 births per 1,000 girls, and Arkansas had the highest teen birth rate, at 39.5 births per 1,000 girls. </p>
+		</div>
+	
+	<div class= "right">
+		<img src="graph.svg" alt= "Graph" width= 800px></img>
+		</div>
+	<div class= "right">
+		<img src="bar-chart.svg" alt="Bar" width=600px></img>
+		</div>
+	<div class="right">
+		<img src="People.jpg" alt="People" width=700px></img>
+		</div>
+	<div class= "right">
+		<img src="Locker-pic.gif" alt="locker" width="600px"></img>
+		</div>
+	<div class="bottom-source">
+	<p> The National Campaign to Prevent Teen and Unplanned Pregnancy. </p>
+	<p> DoSomething.org</p>
+
+	
